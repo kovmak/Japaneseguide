@@ -29,13 +29,21 @@ Before you begin, ensure you have the following installed on your system:
 
 ## Getting Started
 1. Clone this repository to your local machine:
-  ``` git clone https://github.com/k1fl1k/Storagesystem.git```  
-2. Navigate to the project directory: 
-  ``` cd Japaneseguide```  
-3. Compile the Java source files:
-  ``` javac Main.java```  
-4. Run the program:
-  ``` java Main```  
+```bash
+ git clone https://github.com/k1fl1k/Storagesystem.git
+```  
+3. Navigate to the project directory: 
+```bash
+cd Japaneseguide
+```  
+5. Compile the Java source files:
+```bash
+javac Main.java
+```  
+7. Run the program:
+ ```bash
+ java Main
+```  
 
 
 ## Usage
